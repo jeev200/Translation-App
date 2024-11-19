@@ -1,0 +1,3 @@
+This Language Translator Application is an intuitive tool built using Streamlit and LangChain's OllamaLLM for AI-powered translations. It provides users with the ability to seamlessly translate text into multiple languages, making it ideal for personal, professional, and travel use cases.
+
+This app is a showcase of how cutting-edge AI and intuitive design can simplify complex tasks like language translation, making it an indispensable tool for users in a globalized world.
